@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rohitsalunke/Documents/Solopreneur/AI-language-teacher/v1/v1.csproj": {}
+  },
+  "projects": {
+    "/Users/rohitsalunke/Documents/Solopreneur/AI-language-teacher/v1/v1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rohitsalunke/Documents/Solopreneur/AI-language-teacher/v1/v1.csproj",
+        "projectName": "v1",
+        "projectPath": "/Users/rohitsalunke/Documents/Solopreneur/AI-language-teacher/v1/v1.csproj",
+        "packagesPath": "/Users/rohitsalunke/.nuget/packages/",
+        "outputPath": "/Users/rohitsalunke/Documents/Solopreneur/AI-language-teacher/v1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rohitsalunke/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.413/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
